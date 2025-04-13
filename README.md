@@ -15,19 +15,20 @@
 Visit actions/workflows and chose any of the 3 options to try out Ominis OSINT right from github!
 
 - `Web Search`
-  : https://github.com/AnonCatalyst/Ominis-OSINT/actions/workflows/web-search.yml
+  : https://github.com/Barkasj/Ominis-OSINT/actions/workflows/web-search.yml
 - `Ominis Search`
-  : https://github.com/AnonCatalyst/Ominis-OSINT/actions/workflows/ominis-search.yml
+  : https://github.com/Barkasj/Ominis-OSINT/actions/workflows/ominis-search.yml
 - `Username Search`
-  : https://github.com/AnonCatalyst/Ominis-OSINT/actions/workflows/search-username.yml
+  : https://github.com/Barkasj/Ominis-OSINT/actions/workflows/search-username.yml
 
 **Information Obtained**
 Discover online mentions of a query or username.
 Identify potential social profiles and forums.
 
--- **Support Server** `Help us grow our discord server or contact support by joining up with us today!`
+-- **Contact** `Hubungi saya untuk informasi lebih lanjut`
 
-- [Support Discord Server](https://discord.gg/tgSacvyHqV)
+- Email: barkahsp00@gmail.com
+- GitHub: [Barkasj](https://github.com/Barkasj)
 
 **Contributing**
 Contributions are welcome! Fork the repository, make changes, and submit a pull request.
@@ -149,7 +150,7 @@ Ominis OSINT Tools delivers actionable insights that enable users to make inform
 **Optional PIP install:** `pip install Ominis-OSINT`
 
 ```
-git clone https://github.com/AnonCatalyst/Ominis-OSINT
+git clone https://github.com/Barkasj/Ominis-OSINT
 pip install -r requirements.txt
 ```
 
