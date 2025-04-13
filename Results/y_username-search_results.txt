@@ -1,0 +1,944 @@
+Username: y
+URL: https://www.tiktok.com/@/y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:31
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.facebook.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:31
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://ok.ru//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:32
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://twitter.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:32
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://medium.com/@/y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:32
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://patreon.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:32
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://bionluk.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:32
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://badoo.com/profile//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:33
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.pinterest.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:33
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://instagram.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:34
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.mamba.ru//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:34
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://t.me//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:35
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://tt.me//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:35
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://twitch.tv//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:35
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://youtube.com/user/
+Status Code: 200
+Timestamp: 2025-04-14 05:52:35
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://wfts.su/profile//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:37
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://steamcommunity.com/id/
+Status Code: 200
+Timestamp: 2025-04-14 05:52:37
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://story.snapchat.com/s/
+Status Code: 200
+Timestamp: 2025-04-14 05:52:38
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://account.xbox.com/profile?gamertag=/y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:39
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.analystforum.com/u/
+Status Code: 200
+Timestamp: 2025-04-14 05:52:39
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://paypal.me/
+Status Code: 200
+Timestamp: 2025-04-14 05:52:39
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://github.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:40
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://pypi.org/user/
+Status Code: 200
+Timestamp: 2025-04-14 05:52:41
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://community.signalusers.org/u/
+Status Code: 200
+Timestamp: 2025-04-14 05:52:41
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://gitlab.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:41
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://club.ubisoft.com/profile//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:42
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://soundcloud.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:45
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://metacritic.com/user//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:46
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.deviantart.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:48
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.quora.com/profile//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:50
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.scribd.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:51
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.flickr.com/people//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:51
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.ello.co//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:52
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.stumbleupon.com/stumbler//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:55
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.meetup.com/members//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:56
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.mixcloud.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:57
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.500px.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:52:59
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.zotero.org//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:01
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.slashdot.org/~/y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:02
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.society6.com/
+Status Code: 200
+Timestamp: 2025-04-14 05:53:02
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.weheartit.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:02
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.myspace.com/
+Status Code: 200
+Timestamp: 2025-04-14 05:53:04
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.dailykos.com/user/
+Status Code: 200
+Timestamp: 2025-04-14 05:53:05
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.dailymotion.com/
+Status Code: 200
+Timestamp: 2025-04-14 05:53:06
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.slickdeals.net/forums/member.php?u=/y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:08
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.spoonflower.com/profiles//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:09
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.flightradar24.com/author//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:10
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.bandsintown.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:13
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.pearltrees.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:16
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.stitcher.com/profile//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:17
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.photobucket.com/user//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:19
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.veoh.com/users//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:19
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.pbase.com//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:19
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.tripit.com/people//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:20
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.khanacademy.org/profiles/
+Status Code: 200
+Timestamp: 2025-04-14 05:53:20
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.giphy.com/channel/
+Status Code: 200
+Timestamp: 2025-04-14 05:53:21
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.speakingtree.in/public//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:22
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.care2.com/c2c/people//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:24
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.creativelive.com/student//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:25
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.gaiaonline.com/profiles//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:27
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.travellerspoint.com/users//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:29
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.wikidot.com/user:info//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:29
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.taringa.net//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:35
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.photoshopcreative.co.uk/user//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:35
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.couchsurfing.com/people//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:37
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.eyeem.com/u/
+Status Code: 200
+Timestamp: 2025-04-14 05:53:39
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: y
+URL: https://www.atlasobscura.com/users//y
+Status Code: 200
+Timestamp: 2025-04-14 05:53:41
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+
+Search Summary for y:
+Successfully checked: 67/161 URLs
+Failed: 0/161 URLs
+Timestamp: 2025-04-14 05:57:50
+

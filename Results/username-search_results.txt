@@ -1,0 +1,622 @@
+Username: cybersecurity trends 2024
+URL: https://www.facebook.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:00
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://twitter.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:00
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://medium.com/@/cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:01
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://badoo.com/profile//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:01
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.tiktok.com/@/cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:02
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://instagram.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:02
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://bionluk.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:02
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://t.me//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:02
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.pinterest.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:03
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.mamba.ru//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:03
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://tt.me//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:04
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://twitch.tv//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:05
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://steamcommunity.com/id//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:05
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://wfts.su/profile//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:06
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.minds.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:07
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://account.xbox.com/profile?gamertag=/cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:07
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.ebay.com/usr//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:10
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://pypi.org/user//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:10
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://club.ubisoft.com/profile//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:11
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.ello.co//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:22
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.meetup.com/members//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:23
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.stumbleupon.com/stumbler//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:23
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.mixcloud.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:26
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.500px.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:27
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.slashdot.org/~/cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:29
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.weheartit.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:31
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.dailymotion.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:33
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.flightradar24.com/author//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:37
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.slickdeals.net/forums/member.php?u=/cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:39
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.bandsintown.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:43
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.pearltrees.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:44
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.stitcher.com/profile//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:46
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.yelp.com/user_details?userid=/cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:46
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.pbase.com//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:46
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.tripit.com/people//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:47
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.photobucket.com/user//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:47
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.veoh.com/users//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:47
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.khanacademy.org/profiles//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:49
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.care2.com/c2c/people//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:51
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.gaiaonline.com/profiles//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:52
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.creativelive.com/student//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:52
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.wikidot.com/user:info//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:43:55
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.photoshopcreative.co.uk/user//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:44:00
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+Username: cybersecurity trends 2024
+URL: https://www.taringa.net//cybersecuritytrends2024
+Status Code: 200
+Timestamp: 2025-04-14 05:44:00
+Details:
+Title: ...
+Description: ...
+HTML Content: ...
+Retry Information: Menggunakan sistem retry dengan backoff eksponensial
+Timeout: 30 seconds
+Max Retries: 3
+
+--------------------------------------------------
+
+
+Search Summary for cybersecurity trends 2024:
+Successfully checked: 44/161 URLs
+Failed: 0/161 URLs
+Timestamp: 2025-04-14 05:48:05
+

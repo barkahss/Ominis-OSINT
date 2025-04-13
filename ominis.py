@@ -3,6 +3,7 @@ import logging
 import os
 import random
 import subprocess
+import platform
 
 import httpx
 from colorama import Fore, Style, init
@@ -39,9 +40,9 @@ def display_banner():
         f"""
 {Fore.YELLOW} {Fore.WHITE}🇴‌🇲‌🇮‌🇳‌🇮‌🇸‌-🇴‌🇸‌🇮‌🇳‌🇹‌ {Fore.YELLOW}- {Fore.RED}[{Fore.WHITE}Secure Web-Hunter{Fore.RED}]
 {Fore.RED} ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    {Fore.YELLOW}~ {Fore.CYAN}Developer{Fore.YELLOW}: {Fore.WHITE} Barkah Saputra {Fore.MAGENTA}<{Fore.RED}
+    {Fore.YELLOW}~ {Fore.CYAN}Developer{Fore.YELLOW}: {Fore.WHITE} Barkah {Fore.MAGENTA}<{Fore.RED}
     {Fore.RED}------------------------------------------
-    {Fore.YELLOW}~ {Fore.CYAN}Github{Fore.YELLOW}:{Fore.BLUE} https://github.com/Barkasj/{Fore.RED}
+    {Fore.YELLOW}~ {Fore.CYAN}Github{Fore.YELLOW}:{Fore.BLUE} https://github.com/barkahss/{Fore.RED}
     {Fore.RED}------------------------------------------
     {Fore.YELLOW}~ {Fore.CYAN}Email{Fore.YELLOW}:{Fore.BLUE} barkahsp00@gmail.com{Fore.RED}
     """)
@@ -80,8 +81,8 @@ async def main():
     await asyncio.sleep(2)  # Delay to let user read the information
 
     query = await get_user_input("Enter the query to search")
-    language = await get_user_input("Enter language code (e.g., lang_en)", ["e.g., lang_en (English)", "e.g., lang_es (Spanish)", "e.g., lang_fr (French)", "e.g., lang_de (German)"])
-    country = await get_user_input("Enter country code (e.g., US)", ["e.g., US (United States)", "e.g., CA (Canada)", "e.g., GB (United Kingdom)", "e.g., AU (Australia)"])
+    language = await get_user_input("Enter language code (e.g., lang_en)", ["e.g., lang_en (English)", "e.g., lang_id (Indonesian)", "e.g., lang_es (Spanish)", "e.g., lang_fr (French)", "e.g., lang_de (German)"])
+    country = await get_user_input("Enter country code (e.g., US)", ["e.g., US (United States)", "e.g., ID (Indonesia)", "e.g., CA (Canada)", "e.g., GB (United Kingdom)", "e.g., AU (Australia)"])
     start_date = await get_user_input("Enter start date (YYYY-MM-DD)")
     end_date = await get_user_input("Enter end date (YYYY-MM-DD)")
     search_method = await get_user_input("Select search method (1 for Google, 2 for SerpAPI)", ["1 - Google (default)", "2 - SerpAPI (requires API key)"])
@@ -98,7 +99,14 @@ async def main():
         # Ask if user wants to run username search
         run_username_search = await get_user_input("Run username search? (y/n)")
         if run_username_search.lower() == "y":
-            subprocess.run(["python3", "-m", "src.usr", query])
+            # Ask for username specifically for username search
+            username = await get_user_input("Enter username to search (leave empty to use the same as query)")
+            # If username is empty, use the query
+            if not username.strip():
+                username = query
+            # Use 'python' on Windows, 'python3' on other platforms
+            python_cmd = "python" if platform.system() == "Windows" else "python3"
+            subprocess.run([python_cmd, "-m", "src.usr", username])
         return
 
     # Default to Google search with proxies
@@ -123,7 +131,17 @@ async def main():
     await fetch_google_results(query, language, country, date_range, valid_proxies)
     await asyncio.sleep(3)  # Introduce delay between requests
 
-    subprocess.run(["python3", "-m", "src.usr", query])
+    # Ask if user wants to run username search
+    run_username_search = await get_user_input("Run username search? (y/n)")
+    if run_username_search.lower() == "y":
+        # Ask for username specifically for username search
+        username = await get_user_input("Enter username to search (leave empty to use the same as query)")
+        # If username is empty, use the query
+        if not username.strip():
+            username = query
+        # Use 'python' on Windows, 'python3' on other platforms
+        python_cmd = "python" if platform.system() == "Windows" else "python3"
+        subprocess.run([python_cmd, "-m", "src.usr", username])
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')
