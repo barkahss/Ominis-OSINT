@@ -1,38 +1,39 @@
-># Ominis-OSINT: Web Hunter 🌐🕵️‍♂️
+> # Ominis-OSINT: Web Hunter 🌐🕵️‍♂️
 
 > **BUG FIX!**
+
 - proxy_handler.py was encountering a configuration error, I was unable to resolve the issue with the module httpx and decided to switch it out with the aiohttp module. This switch has been tested and things should now be functional.
 
-> **COMMING** ``paused``
-- `Refinement update.  Paused`
-- `username search (AliaStorm) which is used at the end, is planned to receive a rebuild.`
-- `new optional feature that introduces back SerpApi`
+> **UPDATES**
 
+- `Refinement update.`
+- `username search (AliaStorm) which is used at the end, is planned to receive a rebuild.`
+- `Added SerpAPI integration for more reliable search results`
 
 # **Github Actions**
 
-
 Visit actions/workflows and chose any of the 3 options to try out Ominis OSINT right from github!
-- ``Web Search``
+
+- `Web Search`
   : https://github.com/AnonCatalyst/Ominis-OSINT/actions/workflows/web-search.yml
-- ``Ominis Search``
+- `Ominis Search`
   : https://github.com/AnonCatalyst/Ominis-OSINT/actions/workflows/ominis-search.yml
-- ``Username Search``
+- `Username Search`
   : https://github.com/AnonCatalyst/Ominis-OSINT/actions/workflows/search-username.yml
 
 **Information Obtained**
-    Discover online mentions of a query or username.
-    Identify potential social profiles and forums.
+Discover online mentions of a query or username.
+Identify potential social profiles and forums.
 
+-- **Support Server** `Help us grow our discord server or contact support by joining up with us today!`
 
--- **Support Server** `Help us grow our discord server or contact support by joining up with us today!` 
 - [Support Discord Server](https://discord.gg/tgSacvyHqV)
 
 **Contributing**
 Contributions are welcome! Fork the repository, make changes, and submit a pull request.
 
 > **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+> This project is licensed under the MIT License - see the LICENSE file for details.
 
 🚀 Happy OSINTing! 🕵️‍♂️
 
@@ -49,7 +50,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     Human-like Behavior Mimicking: 🕵️‍♂️ To mimic human-like behavior and avoid detection by anti-bot mechanisms, the tool randomizes user agents for each request. This helps in making the requests appear more natural and reduces the likelihood of being flagged as automated activity.
     Randomized User Agents: 🛡️ In addition to proxy validation, the tool utilizes randomized user agents for each request, further enhancing user anonymity. By rotating through a pool of proxies, the tool reduces the chances of being tracked or identified by websites, thus safeguarding user privacy throughout the reconnaissance process.
     Username Search: 🔍 Searches a list of URLs for a specific username. Utilizes threading for parallel execution. Provides detailed results with URL and HTTP status code.
-
 
 These measures collectively contribute to ensuring user anonymity and privacy, providing a secure environment for conducting digital reconnaissance activities.
 
@@ -80,59 +80,59 @@ Ominis OSINT provides a wealth of targetable and actionable results, empowering 
 
 ### 1. Identifying Potential Threats 🚨
 
-   - Monitoring online chatter to identify security breaches, cyberattacks, or malicious activities.
-   - Proactively mitigating risks and safeguarding assets.
+- Monitoring online chatter to identify security breaches, cyberattacks, or malicious activities.
+- Proactively mitigating risks and safeguarding assets.
 
 ### 2. Monitoring Competitors 🕵️‍♂️
 
-   - Tracking competitors' online presence, social media activities, and product launches.
-   - Identifying market trends, assessing competitor strategies, and capitalizing on opportunities.
+- Tracking competitors' online presence, social media activities, and product launches.
+- Identifying market trends, assessing competitor strategies, and capitalizing on opportunities.
 
 ### 3. Gathering Human Intelligence 👥
 
-   - Collecting human intelligence from forums, social media, and online discussions.
-   - Staying informed about emerging trends, sentiment analysis, and public opinion.
+- Collecting human intelligence from forums, social media, and online discussions.
+- Staying informed about emerging trends, sentiment analysis, and public opinion.
 
 ### 4. Detecting Brand Mentions 📣
 
-   - Tracking brand mentions, reviews, and sentiment across social media and news articles.
-   - Analyzing customer feedback, addressing concerns, and managing online reputation.
+- Tracking brand mentions, reviews, and sentiment across social media and news articles.
+- Analyzing customer feedback, addressing concerns, and managing online reputation.
 
 ### 5. Investigating Individuals 🔍
 
-   - Conducting background checks, investigating individuals, and gathering public information.
-   - Identifying relationships, affiliations, employment history, and online activities.
+- Conducting background checks, investigating individuals, and gathering public information.
+- Identifying relationships, affiliations, employment history, and online activities.
 
 ### 6. Uncovering Financial Insights 💰
 
-   - Monitoring business news, financial reports, and regulatory filings.
-   - Assessing financial health, identifying investment opportunities, and detecting fraud.
+- Monitoring business news, financial reports, and regulatory filings.
+- Assessing financial health, identifying investment opportunities, and detecting fraud.
 
 ### 7. Mapping Digital Footprints 🗺️
 
-   - Aggregating data to create comprehensive profiles of individuals, organizations, or events.
-   - Tracking geolocation, online activities, social connections, and historical data.
+- Aggregating data to create comprehensive profiles of individuals, organizations, or events.
+- Tracking geolocation, online activities, social connections, and historical data.
 
 ### 8. Tracking Online Campaigns 📊
 
-   - Monitoring online campaigns, social media trends, and digital marketing efforts.
-   - Analyzing engagement metrics, identifying influencers, and optimizing marketing strategies.
+- Monitoring online campaigns, social media trends, and digital marketing efforts.
+- Analyzing engagement metrics, identifying influencers, and optimizing marketing strategies.
 
 ### 9. Monitoring Regulatory Compliance 📝
 
-   - Tracking industry regulations, legal developments, and enforcement actions.
-   - Staying informed about compliance requirements and implementing proactive measures.
+- Tracking industry regulations, legal developments, and enforcement actions.
+- Staying informed about compliance requirements and implementing proactive measures.
 
 ### 10. Forecasting Emerging Risks 📈
 
-   - Leveraging predictive analytics to forecast emerging risks and market shifts.
-   - Anticipating vulnerabilities, seizing opportunities, and staying ahead of the curve.
+- Leveraging predictive analytics to forecast emerging risks and market shifts.
+- Anticipating vulnerabilities, seizing opportunities, and staying ahead of the curve.
 
 ### 11. Google Search Filtering 🖇
-   - Adjust your search by using the filtering features (Language, Country, and Date-range).
+
+- Adjust your search by using the filtering features (Language, Country, and Date-range).
 
 Ominis OSINT Tools delivers actionable insights that enable users to make informed decisions, mitigate risks, and capitalize on opportunities in a rapidly evolving digital landscape.
-
 
 ![Watch the video](src/img/video.gif)
 
@@ -140,36 +140,43 @@ Ominis OSINT Tools delivers actionable insights that enable users to make inform
 
 - Web search uses Google by default.
 - Configure the list of URLs in `src/urls.txt` for username searches.
+- SerpAPI integration:
+  - Your SerpAPI key is stored in `src/config.py`
+  - You can choose between Google search (with proxies) or SerpAPI search when running the tool
 
 ## Installation
-**Optional PIP install:** ``pip install Ominis-OSINT``
 
-   ```
-   git clone https://github.com/AnonCatalyst/Ominis-OSINT
-   pip install -r requirements.txt
-   ```
-- Run the following command at your own risk if your having installation issues when using pip 
-``` 
+**Optional PIP install:** `pip install Ominis-OSINT`
+
+```
+git clone https://github.com/AnonCatalyst/Ominis-OSINT
+pip install -r requirements.txt
+```
+
+- Run the following command at your own risk if your having installation issues when using pip
+
+```
 pip install -r requirements.txt --break-system-packages
 ```
 
 - Install using default install script
+
 ```
 chmod +x install.sh
 sudo sh install.sh
 ```
 
 - Install for windows
+
 ```
 Simply double-click the install.bat file or run it from Command Prompt.
 ```
-    
+
 > **Usage**
 
 1. Navigate to the script's directory:
    - `cd Ominis-OSINT`
 2. Run on Windows:
-   - Simply double-click the `ominis` __exe__ file or run it from Command Prompt.
-4. Run the script normally:
+   - Simply double-click the `ominis` **exe** file or run it from Command Prompt.
+3. Run the script normally:
    - `python3 ominis.py`
-

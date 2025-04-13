@@ -11,6 +11,7 @@ from bs4 import BeautifulSoup
 
 from src.proxy_handler import scrape_proxies, validate_proxies
 from src.tools_handler import fetch_google_results
+from src.serp_search import search_with_serpapi
 from src.utils import find_social_profiles, is_potential_forum, extract_mentions
 
 # Suppress InsecureRequestWarning
@@ -47,10 +48,10 @@ def display_banner():
 
 async def get_user_input(prompt, options=None):
     clear_screen()
-    
+
     # Display the banner
     display_banner()
-    
+
     # Display current input statistics
     print(f'{Fore.RED}_' * 80)
     print(f"{Fore.RED}Input Statistics:{Fore.WHITE}")
@@ -64,10 +65,10 @@ async def get_user_input(prompt, options=None):
             print(f" - {option}")
 
     user_input = input(f"\n{Fore.RED}[{Fore.YELLOW}!{Fore.RED}]{Fore.WHITE} {prompt}: {Fore.WHITE}")
-    
+
     # Save input
     user_inputs[prompt] = user_input
-    
+
     print(f"{Fore.RED}You entered: {Fore.WHITE}{user_input}\n")
     await asyncio.sleep(1)  # Short delay to let user see the prompt
 
@@ -83,9 +84,25 @@ async def main():
     country = await get_user_input("Enter country code (e.g., US)", ["e.g., US (United States)", "e.g., CA (Canada)", "e.g., GB (United Kingdom)", "e.g., AU (Australia)"])
     start_date = await get_user_input("Enter start date (YYYY-MM-DD)")
     end_date = await get_user_input("Enter end date (YYYY-MM-DD)")
+    search_method = await get_user_input("Select search method (1 for Google, 2 for SerpAPI)", ["1 - Google (default)", "2 - SerpAPI (requires API key)"])
 
     # Validate and format date_range
     date_range = (start_date, end_date)
+
+    # Use SerpAPI if selected
+    if search_method == "2":
+        print(f"\n{Fore.GREEN}Using SerpAPI for search...{Style.RESET_ALL}")
+        search_with_serpapi(query, language, country, date_range)
+        await asyncio.sleep(3)  # Introduce delay between requests
+
+        # Ask if user wants to run username search
+        run_username_search = await get_user_input("Run username search? (y/n)")
+        if run_username_search.lower() == "y":
+            subprocess.run(["python3", "-m", "src.usr", query])
+        return
+
+    # Default to Google search with proxies
+    print(f"\n{Fore.GREEN}Using Google search with proxies...{Style.RESET_ALL}")
 
     # Proceed with scraping and validation
     proxies = await scrape_proxies()
